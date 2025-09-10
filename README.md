@@ -49,3 +49,9 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   ```
 
 Viel Erfolg!
+
+#Änderungen
+-Profil ausgefüllt
+-Interessen aktualisiert
+-Abschnitt "über mich" ergänzt
+
